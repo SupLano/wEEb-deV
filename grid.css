@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: flex-end; */
+   
+}
+
+.container > div{
+  
+    background-color: red;
+    margin: 8px;
+}
+
+.flexes{
+    align-self: flex-end;
+}
+
+.flex1{
+
+}
+.flex2{
+
+}
+.flex3{
+   
+}
